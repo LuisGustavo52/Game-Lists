@@ -1,4 +1,4 @@
-package com.luisgustavo.GameList;
+package com.luisgustavo.gameList;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
