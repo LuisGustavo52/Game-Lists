@@ -1,6 +1,6 @@
 package com.luisgustavo.gameList.entities;
 
-import jakarta.persistence.Embedded;
+
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
