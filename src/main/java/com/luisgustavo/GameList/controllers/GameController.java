@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.luisgustavo.gameList.dto.GameDTO;
 import com.luisgustavo.gameList.dto.GameMinDTO;
-import com.luisgustavo.gameList.entities.Game;
 import com.luisgustavo.gameList.services.GameService;
 
 @RestController // Configura a classe como um controlador REST
